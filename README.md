@@ -26,4 +26,4 @@ Ideally a tall tactile button should be used, but if you only have short ones yo
 
 ## Support Me
 * [My Projects](https://projects.amiga-hardware.com) - Donate on this page
-* [Order the Kick-Up-The-Butt PCB]()
+* [Order the Kick-Up-The-Butt PCB](https://www.pcbway.com/project/shareproject/Kick_Up_The_Butt_User_Port_Reset_Cart_for_C64_VIC_20_fc886e20.html)
