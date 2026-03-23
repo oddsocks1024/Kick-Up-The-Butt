@@ -15,6 +15,7 @@ A reset cartridge with pass-through, for the C64 and VIC20, with a 3D printable 
 | 1   | 805-24P Connector - 24pin C64 / VIC20 User Port Connector         |
 
 Ideally a tall tactile button should be used, but if you only have short ones you can 3D print the STL reset pin and use that to extend it.
+When attaching the 805-24P connector, gently bend the pins with pliers so they touch the pads on both sides. Make sure the PCB is straight before soldering.
 
 ## Case Assembly
 
